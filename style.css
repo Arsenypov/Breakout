@@ -1,1 +1,5 @@
-
+#gameWindow {
+    border: 1px solid green;
+    margin: 0 auto;
+    display: block;
+}
